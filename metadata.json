@@ -1,0 +1,6 @@
+{
+  "name": "Escuela Preparatoria Oficial Núm. 44 - Temoaya",
+  "description": "Sitio web oficial de la Escuela Preparatoria Oficial Núm. 44 Temoaya, México. Infraestructura, Proyectos PAEC Origami, Clubs Escolares, Diagnóstico, Presentación y Ubicación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
